@@ -30,7 +30,7 @@ Owners name should be changed to your name, but is not nesseccary
 Allowed objects are the objects that can be scanned, remember the _Object_ string value you created? go back and see what you named the value on it, the table here in the Allowed objects is looking
 for the names of the value of the Object string value, the value of your _Object_ should be written down there like it shows in the picture
 
-That is the **Bare** minimum to get this product set up, _still confused? [check out my video here](https://www.youtube.com/@artlurg431/videos)_ im still working on it, its not out yet!
+That is the **Bare** minimum to get this product set up, _still confused? [check out my video here](https://youtu.be/boNGEnkyBzE)_
 
 _Still needing help? [check out my discord](https://discord.gg/N7vvn9tSur)_
 Feel free to DM me, i will respond, i promise!
