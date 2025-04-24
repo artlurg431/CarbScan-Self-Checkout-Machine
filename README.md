@@ -35,4 +35,4 @@ That is the **Bare** minimum to get this product set up, _still confused? [check
 _Still needing help? [check out my discord](https://discord.gg/N7vvn9tSur)_
 Feel free to DM me, i will respond, i promise!
 
---artlurg431
+Made by artlurg431
