@@ -1,6 +1,8 @@
 # CarbScan-Self-Checkout-Machine
 A roblox studio free self checkout machine
 
+If you came here from the settings module from CarbEAS you can find the setup proccess [here](https://github.com/artlurg431/CarbEAS-EAS-Alarm-For-Roblox)
+
 You can get the model in the release or the toolbox for a more stable but less updated version
 
 This will be a long list on how to use this model
