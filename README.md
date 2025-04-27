@@ -18,8 +18,7 @@ To make your tool compatible make 2 String values and put them at the root of yo
 
 Name 1 string value "Object" and the other one "Price", change the values in the properties tab to what you want
 
-Optionally you can add a Bool Value named "HasBeenBought" for the implementation of [CarbAlarm](https://github.com/artlurg431/CarbAlarm---Auto-Store-Alarm) in the future for now you dont _need_ to put it in
-but if your planning on using [CarbAlarm](https://github.com/artlurg431/CarbAlarm---Auto-Store-Alarm) then you do put it in.
+Add another BoolValue and name it "HasBeenBought" put all of them at the root of your tool/item
 
 Settings
 
