@@ -37,3 +37,5 @@ _Still needing help? [check out my discord](https://discord.gg/N7vvn9tSur)_
 Feel free to DM me, i will respond, i promise!
 
 Made by lots of people
+
+If you want to contribute, message me on discord!
