@@ -61,6 +61,8 @@ for the names of the value of the Object string value, the value of your _Object
 
 <img width="526" height="368" alt="image" src="https://github.com/user-attachments/assets/c102cbc9-d0ec-4826-b51a-aefd7656f3a2" />
 
+<sub>_This image is from v2.0.3 of the API module, instructions stay the same_</sub>
+
 **What the Api does**
 
 The api is used for controlling selfserv with another product like [CRBEAS](https://github.com/artlurg431/CarbEAS-EAS-Alarm-For-Roblox)
@@ -137,6 +139,26 @@ ik it sucks but when it gets a event call from the API event it checks through a
 
 <img width="294" height="305" alt="image" src="https://github.com/user-attachments/assets/d2cbe7d9-fb23-47ef-9ccf-454bb8d5d3eb" />
 
+# CarbWifiNeo
+
+<img width="1110" height="765" alt="image" src="https://github.com/user-attachments/assets/6208235b-4753-4950-ba3e-99b1621c4de4" />
+
+This is a relitevly new product, here i will show you how to set it up (_The setup is the same for every other additional model_)
+
+Also, you need the CrbNet model to use this product
+
+When you first insert CarbWifiNeo into your game it should come in a folder like this:
+
+<img width="319" height="30" alt="image" src="https://github.com/user-attachments/assets/2d9e4f06-b635-4070-905c-1deaf86d4e39" />
+
+Inside there should be a bunch of empty folders, if you already have those folder, eg. EAS, SelfScan, CarbNet. Delete them.
+
+If you already have CRBAPI in your replicated **storage** check that the one you already have is on the latest version (v.2.0.4) and if it is
+leave it, if it isnt delete it and put in the new one (you will have to sadly put all of your settings back in for now)
+
+Once you did all that you can ungroup the folder that everythings in by selecting it and pressing ctrl+u
+if your planning on adding multiple of these go into the CarbWifiNeo model, then go into the logic folder, after that select the MODEL value
+and in the properties menu change the value to B on your second model, then C for more models and so on...
 
 #
 
