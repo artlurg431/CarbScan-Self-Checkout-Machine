@@ -1,13 +1,15 @@
 # CarbScan-Self-Checkout-Machine
 A roblox studio free self checkout machine
 
-These are instructions for v3.1.4PT
-
-If you came here from the settings module from CarbEAS you can find the setup proccess [here](https://github.com/artlurg431/CarbEAS-EAS-Alarm-For-Roblox)
+These are instructions for v3.5.2PT
 
 You can get the model in the release or the toolbox for a more stable but less updated version
 
 This will be a long list on how to use this model
+
+The instructions underneath are for v3.1.5PT, and its api and stuff. I will keep them there for legacy purposes, scroll to where it says Instructions for v3.5.2PT
+
+# v3.1.5PT Instructions
 
 First, ungroup the folder named UNGROUP, thats where everything is
 
@@ -138,6 +140,121 @@ ik it sucks but when it gets a event call from the API event it checks through a
 
 
 <img width="294" height="305" alt="image" src="https://github.com/user-attachments/assets/d2cbe7d9-fb23-47ef-9ccf-454bb8d5d3eb" />
+
+# CrbPack v3.5.2PT Instructions
+
+Every model i release gets easier and simpler to set up, for this one you literally dont need to do anything!
+
+Seriously, once you put the CrbPack folder in your workspace you can leave it there and everything will put itself in its correct space
+
+Although to add your own items you **do still need to do some stuff** but its simple! I promise!
+
+First, open everything like this to the CustomItem, this item is here to help you with understanding how items work with this sco
+
+<img width="285" height="449" alt="image" src="https://github.com/user-attachments/assets/95ed8d20-e8a2-4026-99fd-9fad37b2b9b6" />
+
+<img width="232" height="160" alt="image" src="https://github.com/user-attachments/assets/8e947745-41f1-4bd4-81c5-c8715baac3d6" />
+
+^^I dont know how to format these images correctly to show up well so just live with it
+
+These values i selected are the most important part of your item. The 2 tob ones are **Bool Values** and the 3 bottom ones are **String Values**
+
+The ones you need to edit are the **String Values**, Object is your item name that shows up on the sco among other things, Price is the price that shows up on your sco, SavingsPrice is the price that
+shows up when using your Loyalty Card
+
+Editing the savingsprice is optional.
+
+To edit the Object value click on it and look at your properties tab
+
+<img width="332" height="266" alt="image" src="https://github.com/user-attachments/assets/282d4f90-1b0a-4d9b-a799-e8fbdcd43f13" />
+
+Click on "ChangeMe" and change that to what you want your item name to be, like "Water" or smth
+
+For the price do the same thing as the Object value, click on it and look at the properties tab, click on "1.00" and change that to the price you want, make sure its numbers though.
+
+# Settings and changing the overall settings of everything
+
+<img width="1815" height="930" alt="image" src="https://github.com/user-attachments/assets/c918cabe-bfdc-45fb-8ad0-0a1c0a72c4dc" />
+
+Most of the settings you would want to change are right here, i will explain each one
+
+CarbNet - Not required anymore, you can leave it to either true or false
+
+Ui - For custom ui's i will go over this later
+
+DefaultStatLight - Again, i will go over this again
+
+Pin - your universal employee pin, used on every product when needed
+
+Ranks - Not used currently, will be used in 3.6 which will come out shortly
+
+TimeBetweenScan - Not even sure if this is used anymore, but it basically just is the time you need to wait before scanning your next item (debounce)
+
+Groupid - Not used currently
+
+StaffRank - Not used currently
+
+LockingTime - i think this is some old ahh legacy feature that dosent exist anymore
+
+GiveCredit - Probably dosent even work anymore, just prints out my name on spawn, leave this disabled
+
+RimLight - dosent exist anymore
+
+AssitanceFreq - Havent figured out how to use this, would be annoying aswell, so maybe thats for the better
+
+BootUp - Shows the machine bootup (Credits to Phontinox for it :p)
+
+UnlockFromNet - CrbNet dosent exist anymore, this therotically does work i have implemented it and might work with crbnet if you enabled the sco in it which is auto hidden
+
+ArePluginsEnabled - If you decided to torture yourself trying to find out how my code works then this would be used, not used officially
+
+BootupSound - DOsent work anymore because of the new bootup screen (Thanks again to Phontinox for making it)
+
+RequireStaffToInteract - Dosent exist yet sadly
+
+You can scroll through the whole module and change everything to how you want
+
+# CUSTOM UI'S
+
+I honestly havent tested this (I KNOW CALL ME LAZY BUT NO ONE IS GONNA MAKE A CUSTOM UI FOR TS BECAUSE NO ONE IS GONNA USE THIS SCO AHHA)
+
+Sorry for that crashout, but i actually havent tested this, but it should work aslong as you dont mess stuff up
+
+First, open the screen model, then the screen part to find all of this
+
+<img width="256" height="515" alt="image" src="https://github.com/user-attachments/assets/3d17c93d-e5aa-498b-8ec6-3876773305f7" />
+
+Select this folder and duplicate it ctrl + d and whatever tf for mac users and then rename it to what you want, like "Custom" or smth
+
+<img width="281" height="231" alt="image" src="https://github.com/user-attachments/assets/72037079-444b-4914-9613-41ea6fb09bac" />
+
+After that, Move the default folder somewhere else and then everything in your new folde is free to customise, (im assuming you know how to change and make ui's)
+
+BUT make sure to not delete or rename anything, doing that will mess stuff up, so just dont
+
+Once your done, go to the settings module and go to Ui, change "Default" to your ui folder name, also please contact me on discord if you have issues with this, because i myself would too prob
+
+<img width="311" height="43" alt="image" src="https://github.com/user-attachments/assets/de07fe4b-18a9-4d75-9621-16499e1b8cce" />
+
+# Status Lights
+
+These are thankfully easier to setup than the custom uis kinda
+
+<img width="467" height="620" alt="image" src="https://github.com/user-attachments/assets/8faf90d3-efcb-4b8d-b1d6-25432c81e640" />
+
+It is easy, if you want to change the default status light to one of these, go to where they are stored, which is here in TriLights
+
+<img width="255" height="479" alt="image" src="https://github.com/user-attachments/assets/04c8c1a1-24a6-45fc-86a3-b4c6ff838ee8" />
+
+Drag and drop them into the ModelPlugins folder whioch is in the Plugins folder, then delete or move the DefaultLight model somewhere else
+
+Next, go to the settings module and go to DefaultStatLight, which looks like this:
+
+<img width="762" height="35" alt="image" src="https://github.com/user-attachments/assets/48c1f58d-eabd-48c1-9bae-96fb3c93fdeb" />
+
+Change "DefaultLight" to the name of the new status light your using, like "LightSaber" or "ZebraTriLight"
+
+You can also make your own trilights!, just make sure it has 2 parts named StatusLight and StatusLight2 in them and then everything else is the same as the provided extra trilights
 
 # CarbWifiNeo
 
