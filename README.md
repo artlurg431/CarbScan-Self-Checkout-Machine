@@ -1,13 +1,11 @@
 # CarbScan-Self-Checkout-Machine
 A roblox studio free self checkout machine
 
-These are instructions for v3.5.2PT
-
 You can get the model in the release or the toolbox for a more stable but less updated version
 
 This will be a long list on how to use this model
 
-The instructions underneath are for v3.1.5PT, and its api and stuff. I will keep them there for legacy purposes, scroll to where it says Instructions for v3.5.2PT
+The instructions underneath are for v3.1.5PT, and its api and stuff. I will keep them there for legacy purposes, **scroll to where it says Instructions for v3.5.0**
 
 # v3.1.5PT Instructions
 
@@ -141,7 +139,7 @@ ik it sucks but when it gets a event call from the API event it checks through a
 
 <img width="294" height="305" alt="image" src="https://github.com/user-attachments/assets/d2cbe7d9-fb23-47ef-9ccf-454bb8d5d3eb" />
 
-# CrbPack v3.5.2PT Instructions
+# CrbPack v3.5.0 Instructions
 
 Every model i release gets easier and simpler to set up, for this one you literally dont need to do anything!
 
@@ -260,6 +258,8 @@ You can also make your own trilights!, just make sure it has 2 parts named Statu
 
 <img width="1110" height="765" alt="image" src="https://github.com/user-attachments/assets/6208235b-4753-4950-ba3e-99b1621c4de4" />
 
+The insturctions below are mostly outdated, although adding new wifi's is the same as adding extra sco's or eas'
+
 This is a relitevly new product, here i will show you how to set it up (_The setup is the same for every other additional model_)
 
 Also, you need the CrbNet model to use this product
@@ -288,7 +288,6 @@ That is the **Bare** minimum to get this product set up, _still confused? [check
 
 Made by lots of people
 
-If you find any bugs, please report them to me on discord, the faster i get bugs fixed the fatser i can release newer models. This is a public beta test, the model isnt stable!
-Toolbox version comming soon, they usually take longer to receive updates due to stability concerns (another reason to report bugs) 
+If you find any bugs, please report them to me on discord, the faster i get bugs fixed the fatser i can release newer models. There shouldnt be any bugs, but please report them to me
 
 If you want to contribute, message me on discord!
