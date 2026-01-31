@@ -282,6 +282,8 @@ and in the properties menu change the value to B on your second model, then C fo
 _Still needing help? [check out my discord](https://discord.gg/N7vvn9tSur)_
 Feel free to DM me, i will respond, i promise!
 
+You can also email me at crbproducts.proton@gmail.com
+
 <sub>_i recommend opening a forum in crb-product-help incase someone else has the same problem_</sub>
 
 That is the **Bare** minimum to get this product set up, _still confused? [check out my video here](https://youtu.be/boNGEnkyBzE)_
